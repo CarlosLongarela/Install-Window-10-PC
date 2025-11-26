@@ -37,18 +37,18 @@ winget install Microsoft.Edge
 winget install Google.Chrome
 winget install Mozilla.Firefox
 winget install Mozilla.FirefoxDeveloperEdition
-winget install ResponsivelyApp.ResponsivelyApp
-winget install VivaldiTechnologies.Vivaldi
+:: winget install ResponsivelyApp.ResponsivelyApp
+:: winget install VivaldiTechnologies.Vivaldi
 
 ECHO ------------------------------------------
 ECHO Install Utilities
 ECHO ------------------------------------------
 winget install VB-Audio.VoiceMeeter_Banana
-winget install Twilio.Authy
+:: winget install Twilio.Authy
 winget install 7zip.7zip
-winget install RescueTime.RescueTime
+:: winget install RescueTime.RescueTime
 winget install Microsoft.PowerToys
-winget install Greenshot.Greenshot
+:: winget install Greenshot.Greenshot
 winget install LibreOffice.LibreOffice 
 
 ECHO ------------------------------------------
@@ -65,12 +65,12 @@ winget install Postman.Postman
 ECHO ------------------------------------------
 ECHO Install Communication & video Tools
 ECHO ------------------------------------------
-winget install Loom.Loom
+:: winget install Loom.Loom
 winget install Zoom.Zoom
 winget install Spotify.Spotify
-winget install StefanMalzner.Franz
+:: winget install StefanMalzner.Franz
 winget install Microsoft.Skype
-winget install Discord.Discord
+:: winget install Discord.Discord
 
 ECHO ------------------------------------------
 ECHO Install Other
